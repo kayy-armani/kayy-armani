@@ -1,6 +1,6 @@
 # Introduction
 
-Hello and welcome to my website! My name is Kenneth Amaning, I am 21 years old an I am currently enrolling on a Software Engineering course at the University of Kent. I have a Year in Industry requirement on my course, hence why I have decided to gain work experience at Commonwealth Secretariat, in order to improve my CV, and therefore better my chances of achieving a placement at the end of the next academic year.
+Hello and welcome to my portfolio! My name is Kenneth Amaning, I am 21 years old an I am currently enrolling on a Software Engineering course at the University of Kent. I have a Year in Industry requirement on my course, hence why I have decided to gain work experience at The Commonwealth Secretariat, in order to improve my CV, and therefore better my chances of achieving a placement at the end of the next academic year.
 
 ## Areas of Study
 
